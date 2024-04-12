@@ -1,7 +1,6 @@
-# 👋 Hello, I'm Yash!
+### Hi there 👋
 
-### About Me 🌐
-Experienced Data Scientist with 2 years of specializing in applying advanced machine learning algorithms, I sculpt data & language into experiences. 
+I'm a data scientist / machine learning engineer.
   
 ### Tech Toolbox 🛠️
 - **Languages:** Python, R, SQL, 
@@ -13,5 +12,5 @@ Experienced Data Scientist with 2 years of specializing in applying advanced mac
 ### Certifications 📜
 - **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
 
-### Contact
+### Contact 📧
 - 📧 Email: yash.gajjar221@gmail.com
