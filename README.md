@@ -17,7 +17,7 @@ I'm Yash Gajjar, a software engineer passionate about building scalable web appl
 - [Blog App](https://github.com/username/blog-app) - Simple blog application built with React and Node.js.
 
 ### Contact
-- 📧 Email: john.doe@example.com
+- 📧 Email: yash.gajjar221@gmail.com
 - 💼 LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your_username)
