@@ -1,23 +1,19 @@
-## Hi there! 👋
+# 👋 Hello, I'm Yash!
 
-I'm Yash Gajjar, a software engineer passionate about building scalable web applications.
-
-### About Me
-- 🌱 I'm currently learning React.js and GraphQL.
-- 💼 I work as a Full Stack Developer at ABC Tech.
-- 🚀 I'm passionate about open-source projects and continuous learning.
-
-### Skills and Technologies
-- 💻 JavaScript, Python, HTML/CSS
-- 🛠️ Git, Docker, PostgreSQL
-- 🌐 React, Flask, Node.js
-
-### Projects
-- [E-commerce Website](https://github.com/username/e-commerce-project) - Full-stack web application for online shopping.
-- [Blog App](https://github.com/username/blog-app) - Simple blog application built with React and Node.js.
+### About Me 🌐
+Experienced Data Scientist with 2 years of specializing in applying advanced machine learning algorithms, I sculpt data & language into experiences. 
 
 ### Contact
 - 📧 Email: yash.gajjar221@gmail.com
-- 💼 LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
+  
+### Tech Toolbox 🛠️
+- **Languages:** Python, R, SQL, 
+- **Frameworks & Libraries:** Pytorch, Tensorflow, Keras, Scikit Learn, Numpy, Pandas, Matplotlib, Seaborn, RShiny
+- **Specialties:** Machine Learning, Neural Networks, Deep Learning, Time Series Analysis, Linear Models
+- **Algorithms:** XGBoost, LightGBM, CatBoost, Random Forest, Decision Tree, Linear Regression, Logistic Regression
+- **Tools:** AWS, Docker, Git
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username)
+### Certifications 📜
+- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
+
+🔗 Let's ideate, innovate, and integrate AI into tomorrow. Reach out for collaborations or simply to chat about the endless possibilities of AI!
