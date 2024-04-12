@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**yash-gajjjar/yash-gajjjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yash Gajjar, a software engineer passionate about building scalable web applications.
 
-Here are some ideas to get you started:
+### About Me
+- 🌱 I'm currently learning React.js and GraphQL.
+- 💼 I work as a Full Stack Developer at ABC Tech.
+- 🚀 I'm passionate about open-source projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Technologies
+- 💻 JavaScript, Python, HTML/CSS
+- 🛠️ Git, Docker, PostgreSQL
+- 🌐 React, Flask, Node.js
+
+### Projects
+- [E-commerce Website](https://github.com/username/e-commerce-project) - Full-stack web application for online shopping.
+- [Blog App](https://github.com/username/blog-app) - Simple blog application built with React and Node.js.
+
+### Contact
+- 📧 Email: john.doe@example.com
+- 💼 LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe)
+
+![Profile Views](https://komarev.com/ghpvc/?username=your_username)
