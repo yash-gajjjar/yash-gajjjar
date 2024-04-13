@@ -13,4 +13,4 @@ I'm a data scientist / machine learning engineer.
 - **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
 
 ### Contact 📧
-- 📧 Email: yash.gajjar221@gmail.com
+- **Email:** yash.gajjar221@gmail.com
