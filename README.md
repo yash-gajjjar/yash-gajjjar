@@ -4,7 +4,7 @@ I'm a data scientist / machine learning engineer.
   
 ### Tech Toolbox 🛠️
 - **Languages:** Python, R, SQL
-- **Frameworks & Libraries:** Pytorch, Tensorflow, Keras, Scikit Learn, Numpy, Pandas, Matplotlib, Seaborn, RShiny
+- **Frameworks & Libraries:** Pytorch, Tensorflow, Keras, Scikit Learn, Numpy, Pandas, Matplotlib, Seaborn, RShiny, ggplot2
 - **Specialties:** Machine Learning, Neural Networks, Deep Learning, Time Series Analysis, Linear Models
 - **Visualization Tools:** Power BI, Tableau
 - **Tools:** AWS, Docker, Git
